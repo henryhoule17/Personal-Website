@@ -49,8 +49,7 @@ const About = () => {
         With a background in both business and engineering, I'm uniquely positioned
         to understand and solve real-world problems. I'm a skilled engineer with
         experience spanning the entire tech stack from React to MongoDB to embedded C. 
-        I'm a quick learner and effective communicator with a deep understanding of
-        product design, and I look forward working together soon!
+        When I'm not studying or building projects, you can find me playing guitar, surfing, or watching movies.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

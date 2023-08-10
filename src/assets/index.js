@@ -38,6 +38,7 @@ import avltree from "./avl-tree.png";
 import gmai from "./gmai.png";
 import headshot from "./AlisalHeadshot.jpg"
 import herobg from "./16bit-bg.jpg"
+import porfolio from "./portfolio.png"
 
 
 export {
@@ -69,6 +70,7 @@ export {
   boeing,
   sportscomputer,
   avltree,
+  porfolio,
   gmai,
   headshot,
   herobg,

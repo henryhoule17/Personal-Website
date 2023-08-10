@@ -21,6 +21,7 @@ import {
     boeing,
     sportscomputer,
     avltree,
+    porfolio,
     gmai,
     cpp,
     python,
@@ -252,12 +253,33 @@ import {
           color: "pink-text-gradient",
         },
         {
-          name: "tailwindcss",
+          name: "redux",
           color: "blue-text-gradient",
         },
       ],
       image: gmai,
       source_code_link: "https://github.com/henryhoule17/GoodMorningAI",
+    },
+    {
+      name: "This Website!",
+      description:
+        "Developed an interactive portfolio website using React and TailwindCSS to showcase my projects and experience.",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "tailwindcss",
+          color: "green-text-gradient",
+        },
+        {
+          name: "framermotion",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: porfolio,
+      source_code_link: "https://github.com/henryhoule17/Personal-Website",
     },
     {
       name: "AVL Tree Implementation",

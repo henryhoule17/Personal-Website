@@ -23,7 +23,7 @@ const Hero = () => {
             I'm a <br/><span className='text-secondary'>Software Engineer</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-primary`}>
-            with a passion for learning new technologies and building powerful applications, and a background in business analysis and investing.
+            who's passionate about learning new technologies and building powerful applications, with a background in business analysis and investing.
           </p>
           <div className='flex flex-row gap-5 mt-5 items-center'>
             <a href={linkedinURL} target='_blank' rel='noopener noreferrer'>

@@ -42,7 +42,7 @@ import {
     },
     {
       id: "work",
-      title: "Work",
+      title: "Experience",
     },
     {
       id: "contact",
@@ -217,7 +217,7 @@ import {
     {
       name: "Sports Arbitrage Strategy",
       description:
-        "Automated sports-betting arbitrage strategy that has resulted in a over 400% ROI and over $20,000 in net profits.",
+        "Automated sports-betting arbitrage strategy that has resulted in over a 400% ROI and over $20,000 in net profits.",
       tags: [
         {
           name: "python",

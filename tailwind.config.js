@@ -5,8 +5,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: "#d9f3e1",
-        secondary: "#47c84f",
+        primary: "#FFFFFF",
+        secondary: "#84cc16",
         tertiary: "#000015",
         "black-100": "#100d25",
         "black-200": "#090325",
@@ -20,6 +20,7 @@ module.exports = {
       },
       backgroundImage: {
         "hero-pattern": "url('/src/assets/forest.gif')",
+        "contact-pattern": "url('/src/assets/waterfalls.gif')",
       },
     },
   },

@@ -6,6 +6,8 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import linkedin from "./linkedin.png";
+import resume from "./resume.png";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -19,22 +21,24 @@ import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
-import threejs from "./tech/threejs.svg";
+import cpp from "./tech/cplusplus.png";
+import python from "./tech/python.png";
+import java from "./tech/java.png";
+import flask from "./tech/flask.png";
+import linux from "./tech/linux.png";
+import nextjs from "./tech/nextjs.png";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
 import reidar from "./company/reidar.png";
 import battery from "./company/battery.png";
 import troylabs from "./company/troylabs.png";
 import boeing from "./company/boeing.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import sportscomputer from "./sportscomputer.png";
+import avltree from "./avl-tree.png";
+import gmai from "./gmai.png";
 import headshot from "./AlisalHeadshot.jpg"
 import herobg from "./16bit-bg.jpg"
+
 
 export {
   logo,
@@ -43,6 +47,8 @@ export {
   mobile,
   web,
   github,
+  resume,
+  linkedin,
   menu,
   close,
   css,
@@ -57,18 +63,19 @@ export {
   redux,
   tailwind,
   typescript,
-  threejs,
-  meta,
-  shopify,
-  starbucks,
   reidar,
   battery,
   troylabs,
   boeing,
-  tesla,
-  carrent,
-  jobit,
-  tripguide,
+  sportscomputer,
+  avltree,
+  gmai,
   headshot,
   herobg,
+  cpp,
+  python,
+  java,
+  flask,
+  linux,
+  nextjs,
 };

@@ -15,15 +15,19 @@ import {
     git,
     figma,
     docker,
-    meta,
     reidar,
     battery,
     troylabs,
     boeing,
-    carrent,
-    jobit,
-    tripguide,
-    threejs,
+    sportscomputer,
+    avltree,
+    gmai,
+    cpp,
+    python,
+    java,
+    flask,
+    linux,
+    nextjs,
   } from "../assets";
   
   export const navLinks = [
@@ -94,28 +98,36 @@ import {
       icon: tailwind,
     },
     {
-      name: "Node JS",
-      icon: nodejs,
+      name: "Next JS",
+      icon: nextjs,
     },
     {
       name: "MongoDB",
       icon: mongodb,
     },
     {
-      name: "Three JS",
-      icon: threejs,
+      name: "Python",
+      icon: python,
     },
     {
       name: "git",
       icon: git,
     },
     {
-      name: "figma",
-      icon: figma,
+      name: "C++",
+      icon: cpp,
     },
     {
-      name: "docker",
-      icon: docker,
+      name: "Java",
+      icon: java,
+    },
+    {
+      name: "Flask",
+      icon: flask,
+    },
+    {
+      name: "Linux",
+      icon: linux,
     },
   ];
   
@@ -166,7 +178,7 @@ import {
       date: "June 2023 - August 2023",
       points: [
         "Developed low-level C and C++ software for the Arm A65AE processor for testing and ASIC simulation.",
-        "Onboarded a next-gen processor simulation platform helping reduce testing time from 10 hours to 8 minutes.",
+        "Developed hardware and software designs and algorithms for processors to handle the intense radiation of space.",
         "Programmed internal tools to enhance development capabilities in a bare-metal, resource-lite environment.",
         "Developed Python scripts to convert XML descriptions of ASIC registers in fully functional system verilog code.",
       ],
@@ -202,67 +214,67 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Sports Arbitrage Strategy",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Automated sports-betting arbitrage strategy that has resulted in a over 400% ROI and over $20,000 in net profits.",
+      tags: [
+        {
+          name: "python",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "selenium",
+          color: "green-text-gradient",
+        },
+        {
+          name: "pandas",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: sportscomputer,
+      source_code_link: "https://github.com/henryhoule17/Sports-Futures-Arbitrage-Algorithm",
+    },
+    {
+      name: "GoodMorningAI",
+      description:
+        "A full-stack web application that provides users with personalized information each morning with a focus on news and recruiting",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
+        },
+        {
+          name: "flask",
+          color: "green-text-gradient",
         },
         {
           name: "mongodb",
-          color: "green-text-gradient",
-        },
-        {
-          name: "tailwind",
           color: "pink-text-gradient",
         },
+        {
+          name: "tailwindcss",
+          color: "blue-text-gradient",
+        },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: gmai,
+      source_code_link: "https://github.com/henryhoule17/GoodMorningAI",
     },
     {
-      name: "Job IT",
+      name: "AVL Tree Implementation",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Developed an automatically-rebalancing binary search tree in C++, to enhance the speed and performance of a BST.",
       tags: [
         {
-          name: "react",
+          name: "C++",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "OOP",
           color: "green-text-gradient",
         },
-        {
-          name: "scss",
-          color: "pink-text-gradient",
-        },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
-    },
-    {
-      name: "Trip Guide",
-      description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-      tags: [
-        {
-          name: "nextjs",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "supabase",
-          color: "green-text-gradient",
-        },
-        {
-          name: "css",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: avltree,
+      source_code_link: "https://github.com/henryhoule17/AVL-Rebalancing-Binary-Search-Tree",
     },
   ];
   

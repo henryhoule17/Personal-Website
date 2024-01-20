@@ -159,15 +159,15 @@ import {
       ],
     },
     {
-      title: "Venture Analyst",
+      title: "Director of BUILD, Software Engineer",
       company_name: "TroyLabs",
       icon: troylabs,
       iconBg: "#EE3A21",
       date: "January 2023 - Present",
       points: [
-        "Advised pre-seed stage startups on business and growth strategy and guide them through the process of fundraising.",
-        "Constructed startup valuation and market sizing models to help founders understand their business and market.",
-        "Helped organize and orchestrate an outreach initiative to hundreds of VCs in our area.",
+        "Led USC’s premier startup accelerator, providing founders with an 8-week program to help them launch and raise",
+        "Coordinated with our internal teams and guest speakers to develop a curriculum and produce a high-quality experience",
+        "Developed custom software for several startups using React, NodeJS, Figma, MongoDB, Express, and AWS",
       ],
     },
     {

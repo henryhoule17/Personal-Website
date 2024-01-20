@@ -6,7 +6,7 @@ import { github, linkedin, resume } from "../assets";
 
 
 const Hero = () => {
-  const resumeURL = 'https://drive.google.com/file/d/1oHrEKS4-SpuHL8qv0VS4QeGp3ZgLIlvx/view?usp=sharing'
+  const resumeURL = 'https://drive.google.com/file/d/1-xA6UsuRf2qMbEPjlDfWxojrxMLX3Zjs/view?usp=sharing'
   const linkedinURL = 'https://www.linkedin.com/in/henry-houle-0869b0201/'
   const githubURL = 'https://github.com/henryhoule17'
 
